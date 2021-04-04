@@ -10,7 +10,7 @@
   * build SparkSession
   * Contain Load Dataset,Filtering data, Grouping and Aggregating,Etc.
   
- # ![1. PySpark-MySQL Connection](https://github.com/boxside/PySpark-MySQL_Connection)
+ # ![2. PySpark-MySQL Connection](https://github.com/boxside/PySpark-MySQL_Connection)
  
  
   ![s-sql](https://github.com/boxside/PySpark-MySQL_Connection/blob/main/maxresdefault.jpg)
